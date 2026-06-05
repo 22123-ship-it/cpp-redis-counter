@@ -5,7 +5,7 @@
 
 GitHub Репозитори: https://github.com/22123-ship-it/cpp-redis-counter
 
-Docker Hub Образ: https://hub.docker.com/r/22123-ship-it/cpp-backend
+Docker Hub Образ: https://hub.docker.com/r/22123stefan/cpp-backend
 Структура на проекта
 
 cpp-redis-counter/
